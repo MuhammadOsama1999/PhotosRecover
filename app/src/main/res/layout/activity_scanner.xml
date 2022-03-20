@@ -22,7 +22,7 @@
 
 
     <LinearLayout
-        android:layout_above="@id/adLayout"
+        android:layout_above="@id/adView"
         android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -60,28 +60,6 @@
     </LinearLayout>
 
 
-    <RelativeLayout
-        android:layout_centerHorizontal="true"
-        android:id="@+id/adLayout"
-        android:layout_alignParentBottom="true"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
 
-        <com.google.android.gms.ads.AdView
-            android:visibility="invisible"
-            xmlns:ads="http://schemas.android.com/apk/res-auto"
-            android:id="@+id/adView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            ads:adSize="BANNER"
-            ads:adUnitId="ca-app-pub-5455259317336088/2834675383">
-        </com.google.android.gms.ads.AdView>
-
-        <LinearLayout
-            android:id="@+id/banner_container"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="vertical"/>
-    </RelativeLayout>
 
 </RelativeLayout>

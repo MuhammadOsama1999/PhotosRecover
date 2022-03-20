@@ -7,10 +7,4 @@
     android:background="@drawable/cover_splash"
     tools:context=".Activities.SplashScreen">
 
-    <!--<ImageView-->
-        <!--android:layout_centerInParent="true"-->
-        <!--android:src="@drawable/logo"-->
-        <!--android:layout_width="wrap_content"-->
-        <!--android:layout_height="wrap_content" />-->
-
 </RelativeLayout>

@@ -1,35 +1,314 @@
 {
   "project_info": {
-    "project_number": "200348754064",
-    "firebase_url": "https://playstorefreeapps-fca7b.firebaseio.com",
-    "project_id": "playstorefreeapps-fca7b",
-    "storage_bucket": "playstorefreeapps-fca7b.appspot.com"
+    "project_number": "197458035846",
+    "firebase_url": "https://samsung-project-b0410.firebaseio.com",
+    "project_id": "samsung-project-b0410",
+    "storage_bucket": "samsung-project-b0410.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:200348754064:android:18df6abae1fcb773",
+        "mobilesdk_app_id": "1:197458035846:android:1f82de955a07cd73",
         "android_client_info": {
-          "package_name": "com.studeregateway.recoverphotos"
+          "package_name": "bramos.videostatus"
         }
       },
       "oauth_client": [
         {
-          "client_id": "200348754064-4rr31433l8239u7q1e1qlnggbkh5smot.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.studeregateway.recoverphotos",
-            "certificate_hash": "34e2d4cafb94de26dda5187e03c3ab8e437a358d"
-          }
-        },
-        {
-          "client_id": "200348754064-8t89f29io5o66kui0v4dfrmikjvbha1i.apps.googleusercontent.com",
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBpOXIofmxu2cBdhC-pmXXzpCNKdPblfIY"
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:7744a3a2b2a77983",
+        "android_client_info": {
+          "package_name": "bramos.videostatusamsownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:1f0fb64024c9233d",
+        "android_client_info": {
+          "package_name": "brazzz.tubevideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:47aa167ad6b883c9",
+        "android_client_info": {
+          "package_name": "com.Bramos.downloader.trendingvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:7c9c9ba5fa29631f",
+        "android_client_info": {
+          "package_name": "com.brames.binder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:2f2107734d221336",
+        "android_client_info": {
+          "package_name": "com.brames.fast.charging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:a62f1495beb6facf",
+        "android_client_info": {
+          "package_name": "com.brames.recordanycall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:8d152f8d9bd99922",
+        "android_client_info": {
+          "package_name": "com.brames.recoverphotos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:57eaf0ecbb6c3063",
+        "android_client_info": {
+          "package_name": "com.bramess.instasaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:b12f8440469f4682",
+        "android_client_info": {
+          "package_name": "com.brazito.android.aroundmechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-3q15tnchv9so10k7jtrbshtrrhh3sh3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brazito.android.aroundmechat",
+            "certificate_hash": "f69b63f41771651035968fe81843459672eded56"
+          }
+        },
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
         }
       ],
       "services": {
@@ -40,10 +319,351 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "200348754064-8t89f29io5o66kui0v4dfrmikjvbha1i.apps.googleusercontent.com",
+              "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:57e35ec6a9305435",
+        "android_client_info": {
+          "package_name": "com.dinosoftlabs.binder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:8d131ec36013c224",
+        "android_client_info": {
+          "package_name": "com.face.fbpasswordhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:b72d589ea1f01cde",
+        "android_client_info": {
+          "package_name": "com.footballnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:8a16ed695b686d8e",
+        "android_client_info": {
+          "package_name": "com.google.samples.apps.friendlyping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:daeacdf2c538a23c",
+        "android_client_info": {
+          "package_name": "com.itobuz.android.awesomechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:6dc5794d0850f14f",
+        "android_client_info": {
+          "package_name": "com.prey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:c2918618e0e031fb",
+        "android_client_info": {
+          "package_name": "com.rescots.android.buzzocean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:9c10f588e6347421",
+        "android_client_info": {
+          "package_name": "com.worldcuprrussia.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:4a9da3ef72957c26",
+        "android_client_info": {
+          "package_name": "com.worldcuprussia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:77218fac061a6d6a",
+        "android_client_info": {
+          "package_name": "me.brames.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197458035846:android:e9ca90dd2732d24d",
+        "android_client_info": {
+          "package_name": "sim.recodre.scren.capture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197458035846-fh5rrkt16ah6789c6qqp1ha3ut3tne03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpYZgj35pNzV5v2NyYt1ajZSj0KNtaU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
